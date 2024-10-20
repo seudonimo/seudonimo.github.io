@@ -1,7 +1,7 @@
 ---
 title: Model Download from HuggingFace
 author: seudonimo
-date: 2024-10.19 00:34:00 +0800
+date: 2024-10-19 00:34:00 +0800
 categories: [Blogging, Note]
 tags: [Huggingface, Aimet-model-zoo, MobileBert, Transformers, PyTorch, ONNX, Tensorflow, TFLite]
 ---
