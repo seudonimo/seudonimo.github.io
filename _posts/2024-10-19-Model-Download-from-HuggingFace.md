@@ -1,5 +1,5 @@
 ---
-title: Mode 추츨방법
+title: Model Download from HuggingFace
 author: seudonimo
 date: 2024-10.19 00:34:00 +0800
 categories: [Blogging, Note]
